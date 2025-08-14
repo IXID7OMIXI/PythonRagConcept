@@ -1,0 +1,7 @@
+langchain
+fastapi
+uvicorn
+pydantic
+faiss-cpu
+google-generativeai
+numpy
