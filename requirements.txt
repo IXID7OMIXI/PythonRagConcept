@@ -1,3 +1,5 @@
+langchain-community
+sentence-transformers
 langchain
 fastapi
 uvicorn
